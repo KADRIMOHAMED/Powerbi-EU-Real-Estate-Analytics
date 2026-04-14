@@ -9,7 +9,7 @@
 
 Interactive Power BI dashboard analyzing European real estate market performance across 12 countries, 48+ cities, and 5,000 property listings (2020–2024). Built for the FP20 Analytics ZoomCharts Challenge #36.
 
-**[🔗 Live Dashboard](#)** &nbsp;|&nbsp; **[💼 LinkedIn Post](#)**
+**[🔗 Live Dashboard]([#](https://app.powerbi.com/view?r=eyJrIjoiZjhkMmQyMDMtZWNkNC00NGViLTlmYzItNjljYzk2NTIzZWMxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))** &nbsp;|&nbsp; **[💼 LinkedIn Post]([#](https://www.linkedin.com/posts/kadrimohamed_fp20analytics-builtwithzoomcharts-powerbi-share-7449514185375281152-oAur?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSPxgMB05bNKOWLiQnbX9Xy3LNbAQFMfe8))**
 
 ---
 
@@ -17,7 +17,7 @@ Interactive Power BI dashboard analyzing European real estate market performance
 
 | Page 1 — Market Overview | Page 2 — Price & Property | Page 3 — Investor Opportunities |
 |:---:|:---:|:---:|
-| ![Page 1](images/page1-market-overview.png) | ![Page 2](images/page2-price-analysis.png) | ![Page 3](images/page3-investor.png) |
+| ![Page 1](images/Data Challenge 36 Real Estate Market Analytics-2.png) | ![Page 2](images/Data Challenge 36 Real Estate Market Analytics-3.png) | ![Page 3](images/Data Challenge 36 Real Estate Market Analytics-4.png) |
 
 ---
 
