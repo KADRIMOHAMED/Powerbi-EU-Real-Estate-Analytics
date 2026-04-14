@@ -9,7 +9,7 @@
 
 Interactive Power BI dashboard analyzing European real estate market performance across 12 countries, 48+ cities, and 5,000 property listings (2020–2024). Built for the FP20 Analytics ZoomCharts Challenge #36.
 
-**[🔗 Live Dashboard]([#](https://app.powerbi.com/view?r=eyJrIjoiZjhkMmQyMDMtZWNkNC00NGViLTlmYzItNjljYzk2NTIzZWMxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))** &nbsp;|&nbsp; **[💼 LinkedIn Post]([#](https://www.linkedin.com/posts/kadrimohamed_fp20analytics-builtwithzoomcharts-powerbi-share-7449514185375281152-oAur?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSPxgMB05bNKOWLiQnbX9Xy3LNbAQFMfe8))**
+**[🔗 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjhkMmQyMDMtZWNkNC00NGViLTlmYzItNjljYzk2NTIzZWMxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))** &nbsp;|&nbsp; **[💼 LinkedIn Post](https://www.linkedin.com/posts/kadrimohamed_fp20analytics-builtwithzoomcharts-powerbi-share-7449514185375281152-oAur?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSPxgMB05bNKOWLiQnbX9Xy3LNbAQFMfe8))**
 
 ---
 
